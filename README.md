@@ -7,7 +7,7 @@ DISCLAIMER: The Application code block and tool is intended to facilitate resear
 
 The Applications Code block written in Python, is UNIX/LINUX & MacOS formatted and can be executed thus; [user]$ chmod u+x ukmpprofile_json.py [enter], on any local computing environment with sufficient computing resource. This would generate the requisite 'ukmpprofile.json' file necessary, to be uploaded (or pasted) onto an Open  Document compliant data sheet, for manual manipulation at a basic level. Please refer to alternatives provided on the Microsoft WINDOWS Platform, for use on it's POWERSHELL scripting tool, etc, in order to appropriately execute the Python Application code.
 
-ADDITIONAL COMMENTRY SCRIPT CODE NOTES:
+ADDITIONAL APPLICATION SCRIPT CODE NOTES:
 
 The Python Applications script uses the `requests`, `BeautifulSoup`, and `re` libraries to scrape the specified URLs, extract the required information, and store the results in a JSON file.
 
