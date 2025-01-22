@@ -10,7 +10,7 @@ DISCLAIMER: The Application code scrpt and tool is intended to facilitate resear
 I BASIC Solution:
 
 
-The applications Code script written in Python, is UNIX/LINUX & MacOS formatted and can be executed from the terminal CLI thus; [<user>]$ chmod u+x ukmpprofile_json.py [<enter>], on any local computing environment with sufficient computing resource. This would generate the requisite 'ukmpprofile.json' file necessary, to be uploaded (or pasted) onto an Open Document Format compliant data Application document (like a 'Spreadsheet'), for manual manipulation at a basic level. Please refer to alternatives provided on the Microsoft WINDOWS Platform, for use on it's POWERSHELL terminal CLI, etc, in order to appropriately execute the Python Application code on that platform. Internet access is mandatory.
+The applications Code script written in Python, is UNIX/LINUX & MacOS formatted and can be executed from the terminal CLI thus; [USER]$ chmod u+x ukmpprofile_json.py [ENTER], on any local computing environment with sufficient computing resource. This would generate the requisite 'ukmpprofile.json' file necessary, to be uploaded (or pasted) onto an Open Document Format compliant data Application document (like a 'Spreadsheet'), for manual manipulation at a basic level. Please refer to alternatives provided on the Microsoft WINDOWS Platform, for use on it's POWERSHELL terminal CLI, etc, in order to appropriately execute the Python Application code on that platform. Internet access is mandatory.
 
 
 ADDITIONAL APPLICATION SCRIPT CODE NOTES:
