@@ -14,7 +14,6 @@ import os # Operating System calls.
 
 os.system("clear") 
 
-
 # FUNCTIONS:
 
 def scrape_theyworkforyou(): # To use Regular Expressions for identifying policy interests, statements, and specific phrases.
